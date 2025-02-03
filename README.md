@@ -14,7 +14,7 @@ You are a Data Analyst who will work on a large project to solve a client's prob
 
 2. The dataset used comes from the kaggle "Video Game Sales" which can be accessed [here](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
-4. Before determining the table, column, or other things in the dataset that will be used for data analysis and visualization, identify and describe the problem first to make it easier for you to do the analysis. You can use any method such as SWOT analysis, Fish bone diagram, 5W + 1H, etc. **Example:**
+4. BBefore determining the table, column, or other things in the dataset that will be used for data analysis and visualization, I first introduce and describe the problem to make it easier to do the analysis. Can use any analysis method such as SWOT, Fishbone Diagram, 5W + 1H, etc. **Example:**
     - Problem Statement: `Knowing Food Consumption Preferences and Behavior in Urban Areas in Indonesia in 2021`
     - Problem description using the 5W + 1H method:
       + Which city has the highest average % of food expenditure?
