@@ -12,9 +12,9 @@ You are a Data Analyst who will work on a large project to solve a client's prob
 ## Instructions
 1. Choose a **free** topic and create a **problem statement** first using the SMART method. My topic is Video Game Sales
 
-2. The dataset is free from any source (BigQuery, Kaggle, BPS, etc.) and in any format (csv, excel, json, sql query, etc.) 
+2. The dataset used comes from the keggle "Video Game Sales" which can be accessed [here](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
-3. Before determining the table, column, or other things in the dataset that will be used for data analysis and visualization, identify and describe the problem first to make it easier for you to do the analysis. You can use any method such as SWOT analysis, Fish bone diagram, 5W + 1H, etc. **Example:**
+4. Before determining the table, column, or other things in the dataset that will be used for data analysis and visualization, identify and describe the problem first to make it easier for you to do the analysis. You can use any method such as SWOT analysis, Fish bone diagram, 5W + 1H, etc. **Example:**
     - Problem Statement: `Knowing Food Consumption Preferences and Behavior in Urban Areas in Indonesia in 2021`
     - Problem description using the 5W + 1H method:
       + Which city has the highest average % of food expenditure?
@@ -25,6 +25,12 @@ You are a Data Analyst who will work on a large project to solve a client's prob
       + etc.
     - The questions/descriptions of the problem above can be answered with visualization data and statistical analysis.
 
-4. The output of this Milestone is a data visualization dashboard using `Tableau Public` and data analysis and processing in `jupyter notebook`.
+5. For Data Visualization, use any type of visualization (bar, line, etc.) and library (matplotlib, pyplot, seaborn, etc.), adjusted to the description of the problem. There is insight in each data visualization.
 
-Data Set Source : https://www.kaggle.com/datasets/gregorut/videogamesales
+6. For Descriptive Statistics, there are calculations or descriptive statistical analysis such as central tendency, measure of variance, outlier analysis, distribution, etc.
+
+7. For Inferential Statistics, there are calculations/analyses of inferential statistics such as confidence intervals, statistical significance, statistical testing, hypothesis testing: one sample, two sample independent, paired test, ANOVA, chi-square, etc.
+
+8. The output of this Project is a data visualization dashboard using `Tableau Public` and data analysis and processing in `jupyter notebook`.
+
+
