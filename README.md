@@ -1,4 +1,4 @@
-# Data2-Portofolio
+# Video Game Sales Analysis-Portofolio
 
 Welcome to my Data Analyst Portfolio! I am a data analyst with experience in using various tools and technologies. I am proficient in data tools such as Python, MySQL, PostgreSql, BigQuery, Excel, Power BI, Tableau and Looker Studio.
 
