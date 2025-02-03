@@ -24,3 +24,7 @@ You are a Data Analyst who will work on a large project to solve a client's prob
 + What age groups still consume traditional foods?
 + etc.
 - The questions/descriptions of the problem above can be answered with visualization data and statistical analysis.
+
+4. The output of this Milestone is a data visualization dashboard using `Tableau Public` and data analysis and processing in `jupyter notebook`.
+
+Data Set Source : https://www.kaggle.com/datasets/gregorut/videogamesales
