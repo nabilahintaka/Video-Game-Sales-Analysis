@@ -22,7 +22,7 @@ You are a Data Analyst who will work on a large project to solve a client's prob
 
 2. The dataset used comes from the kaggle "Video Game Sales" which can be accessed [here](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
-4. Before determining the table, column, or other things in the dataset that will be used for data analysis and visualization, I first introduce and describe the problem to make it easier to do the analysis. Can use any analysis method such as SWOT, Fishbone Diagram, 5W + 1H, etc. **Example:**
+4. Before determining the table, column, or other things in the dataset that will be used for data analysis and visualization, I first introduce and describe the problem to make it easier to do the analysis. Can use any analysis method such as SWOT, Fishbone Diagram, 5W + 1H, etc.
     - Problem Statement: Want to identify and explore sales by comparing sales based on genre, platform, publisher for game development according to the market in the next 1 week
     - Problem description using the 5W + 1H method:
       + Which publisher has the highest sales?
@@ -40,4 +40,4 @@ You are a Data Analyst who will work on a large project to solve a client's prob
 
 8. The output of this Project is a data visualization dashboard using `Tableau Public` and data analysis and processing in `jupyter notebook`.
 
-
+Dashboard Tableau can be accessed [here](https://public.tableau.com/app/profile/nabilah.putri.intaka1611/viz/VideoGameSalesDashboard_17376436610220/Dashboard?publish=yes)
