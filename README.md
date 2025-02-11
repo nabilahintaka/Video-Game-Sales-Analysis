@@ -16,7 +16,7 @@ You are a Data Analyst who will work on a large project to solve a client's prob
     - Using the SMART Framework:
       + S: Analyze the relationship between sales, genre, platform, popular publishers
       + M: Calculate sales comparisons based on genre, platform or publisher
-      + A: A: Analyze game names, genres, platforms, publishers, and sales
+      + A: Analyze game names, genres, platforms, publishers, and sales
       + R: Focus on calculating video game sales to understand the comparison between genres, platforms, or publishers for game development according to the market
       + T: The results of the analysis will be completed in the next 1 week.
 
