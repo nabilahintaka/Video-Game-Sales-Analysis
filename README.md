@@ -11,19 +11,26 @@ You are a Data Analyst who will work on a large project to solve a client's prob
 
 ## Instructions
 1. Choose a **free** topic and create a **problem statement** first using the SMART method. My topic is Video Game Sales
+    - Business Objective: Want to analyze and know in detail the differences in video game sales based on genre, platform and publisher with the highest sales so that the team can focus on developing games according to the market
+    - Problem Identification
+    - Using the SMART Framework:
+      + S: Analyze the relationship between sales, genre, platform, popular publishers
+      + M: Calculate sales comparisons based on genre, platform or publisher
+      + A: A: Analyze game names, genres, platforms, publishers, and sales
+      + R: Focus on calculating video game sales to understand the comparison between genres, platforms, or publishers for game development according to the market
+      + T: The results of the analysis will be completed in the next 1 week.
 
 2. The dataset used comes from the kaggle "Video Game Sales" which can be accessed [here](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 4. Before determining the table, column, or other things in the dataset that will be used for data analysis and visualization, I first introduce and describe the problem to make it easier to do the analysis. Can use any analysis method such as SWOT, Fishbone Diagram, 5W + 1H, etc. **Example:**
-    - Problem Statement: `Knowing Food Consumption Preferences and Behavior in Urban Areas in Indonesia in 2021`
+    - Problem Statement: Ingin mengidentifikasi dan mengeksplorasi sales dengan membandingkan sales berdasarkan genre, platform, publisher untuk pengembangan games sesuai dengan market dalam 1 minggu kedepan
     - Problem description using the 5W + 1H method:
-      + Which city has the highest average % of food expenditure?
-      + How is the behavior of choosing food based on price against the social class of the community?
-      + Does the bachelor's education level have a preference for choosing healthy foods?
-      + Do DKI Jakarta residents still consume traditional foods?
-      + What age groups still consume traditional foods?
-      + etc.
-    - The questions/descriptions of the problem above can be answered with visualization data and statistical analysis.
+      + Publisher apa yang memiliki sales tertinggi?
+      + Berapa total sales masing-masing genre?
+      + Apakah ada perbedaan global sales antara platform PC dan X360?
+      + Bagaimana perbandingan total sales antar region?
+      + Tahun berapa game paling banyak di rilis?
+      + Di platform mana yang memiliki sales tertinggi di masing-masing region?
 
 5. For Data Visualization, use any type of visualization (bar, line, etc.) and library (matplotlib, pyplot, seaborn, etc.), adjusted to the description of the problem. There is insight in each data visualization.
 
