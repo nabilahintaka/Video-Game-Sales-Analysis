@@ -23,14 +23,14 @@ You are a Data Analyst who will work on a large project to solve a client's prob
 2. The dataset used comes from the kaggle "Video Game Sales" which can be accessed [here](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 4. Before determining the table, column, or other things in the dataset that will be used for data analysis and visualization, I first introduce and describe the problem to make it easier to do the analysis. Can use any analysis method such as SWOT, Fishbone Diagram, 5W + 1H, etc. **Example:**
-    - Problem Statement: Ingin mengidentifikasi dan mengeksplorasi sales dengan membandingkan sales berdasarkan genre, platform, publisher untuk pengembangan games sesuai dengan market dalam 1 minggu kedepan
+    - Problem Statement: Want to identify and explore sales by comparing sales based on genre, platform, publisher for game development according to the market in the next 1 week
     - Problem description using the 5W + 1H method:
-      + Publisher apa yang memiliki sales tertinggi?
-      + Berapa total sales masing-masing genre?
-      + Apakah ada perbedaan global sales antara platform PC dan X360?
-      + Bagaimana perbandingan total sales antar region?
-      + Tahun berapa game paling banyak di rilis?
-      + Di platform mana yang memiliki sales tertinggi di masing-masing region?
+      + Which publisher has the highest sales?
+      + How much is the total sales of each genre?
+      + Is there a difference in global sales between PC and X360 platforms?
+      + How does the total sales compare between regions?
+      + In which year were the most games released?
+      + On which platform has the highest sales in each region?
 
 5. For Data Visualization, use any type of visualization (bar, line, etc.) and library (matplotlib, pyplot, seaborn, etc.), adjusted to the description of the problem. There is insight in each data visualization.
 
