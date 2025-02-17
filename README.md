@@ -1,5 +1,5 @@
 # Video Game Sales Analysis
-This project focuses identify and explore video games sales and process the data to analysis, visualization and create dashboard
+This project focuses identify and explore video games sales and process the data to analysis, visualization and create dashboard. The results provide actionable insights for game developer to develop targeted prrevention strategies
 
 This is a repository to showcase my data analytics skills and projects that i get during my studies using *Python* and *Tableau*
 
