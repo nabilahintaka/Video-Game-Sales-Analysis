@@ -1,11 +1,13 @@
 # Video Game Sales Analysis
-I am Data Analyst who will work on a large project to solve a client's problem. Your client needs data analysis results that use statistics and visualization dashboards to help them solve their problems. The main goal is to analyze and know in detail the differences in video game sales based on genre, platform and publisher with the highest sales in various region so that the team can focus on developing games according to the market
+This project focuses identify and explore video games sales and process the data to analysis, visualization and create dashboard
 
 This is a repository to showcase my data analytics skills and projects that i get during my studies using *Python* and *Tableau*
 
 ---
 
 ## Cases
+I am Data Analyst who will work on a large project to solve a client's problem. Your client needs data analysis results that use statistics and visualization dashboards to help them solve their problems. The main goal is to analyze and know in detail the differences in video game sales based on genre, platform and publisher with the highest sales in various region so that the team can focus on developing games according to the market
+
 1. The dataset used comes from the kaggle "Video Game Sales" which can be accessed [here](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 2. Before determining the table, column, or other things in the dataset that will be used for data analysis and visualization. First introduce and describe the problem to make it easier to do the analysis, create a **problem statement** and using the SMART method:
