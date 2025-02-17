@@ -2,6 +2,7 @@
 I am Data Analyst who will work on a large project to solve a client's problem. Your client needs data analysis results that use statistics and visualization dashboards to help them solve their problems. The main goal is to analyze and know in detail the differences in video game sales based on genre, platform and publisher with the highest sales in various region so that the team can focus on developing games according to the market
 
 This is a repository to showcase my data analytics skills and projects that i get during my studies using *Python* and *Tableau*
+
 ---
 
 ## Cases
