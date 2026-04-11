@@ -6,6 +6,10 @@ This project analyzes global video game sales data to uncover patterns across **
 
 The goal is not only to understand historical trends but also to provide **data-driven recommendations** for future game development and market targeting.
 
+## 📌 Executive Summary
+
+This analysis reveals that the video game industry is highly concentrated, with a small number of publishers dominating global sales. The findings show that **genre preference, platform selection, and regional behavior** significantly influence market performance. Notably, Action games lead global demand, while platform dominance varies across regions, indicating that a **one-size-fits-all strategy is ineffective.** These insights highlight the importance of **targeted, data-driven game development and market-specific strategies** to maximize commercial success.
+
 ---
 
 ## 🔄 Data Processing
@@ -66,6 +70,23 @@ This analysis helps:
 
 ---
 
+## ⚠️ Limitations
+
+* The dataset only includes games with sales above 100,000 copies, which may exclude smaller or indie games
+* Data may not reflect recent trends in digital distribution and modern gaming platforms
+* Limited variables (no user behavior, marketing spend, or player demographics)
+* Analysis is based on historical data, not predictive modeling
+
+---
+
+## 🚀 Future Work
+
+* Develop predictive models to forecast game sales
+* Perform deeper analysis on genre-platform combinations
+* Integrate additional datasets (e.g., user reviews, ratings, or playtime data)
+* Analyze trends in modern platforms such as mobile and digital distribution
+
+---
 ## 📎 Dataset
 
 Source: Kaggle - Video Game Sales Dataset[here](https://www.kaggle.com/datasets/gregorut/videogamesales)
