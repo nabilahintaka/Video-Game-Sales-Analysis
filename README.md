@@ -6,7 +6,7 @@ This project analyzes global video game sales data to uncover patterns across **
 
 The goal is not only to understand historical trends but also to provide **data-driven recommendations** for future game development and market targeting.
 
-## 📌 Executive Summary
+## 📌 Summary
 
 This analysis reveals that the video game industry is highly concentrated, with a small number of publishers dominating global sales. The findings show that **genre preference, platform selection, and regional behavior** significantly influence market performance. Notably, Action games lead global demand, while platform dominance varies across regions, indicating that a **one-size-fits-all strategy is ineffective.** These insights highlight the importance of **targeted, data-driven game development and market-specific strategies** to maximize commercial success.
 
