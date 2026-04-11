@@ -8,7 +8,7 @@ The goal is not only to understand historical trends but also to provide **data-
 
 ---
 
-##🔄 Data Processing
+## 🔄 Data Processing
 * Handled missing values in Year and Publisher columns
 * Removed incomplete records to ensure data quality
 * Converted data types for accurate analysis
@@ -16,7 +16,7 @@ The goal is not only to understand historical trends but also to provide **data-
 
 ---
 
-##📊 Exploratory Data Analysis
+## 📊 Exploratory Data Analysis
 * Analyzed sales distribution across genre, platform, and region
 * Identified top-performing publishers and categories
 * Explored trends in game releases over time
