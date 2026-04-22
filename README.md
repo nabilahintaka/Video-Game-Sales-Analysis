@@ -2,9 +2,7 @@
 
 ## 📌 Overview
 
-This project analyzes global video game sales data to uncover patterns across **genre, platform, publisher, and region.** The analysis combines **data cleaning, exploratory analysis, statistical testing, and interactive visualization** to generate actionable insights for game developers and publishers.
-
-The goal is not only to understand historical trends but also to provide **data-driven recommendations** for future game development and market targeting.
+This project analyzes global video game sales data to uncover patterns across **genre, platform, publisher, and region.** The analysis combines **data cleaning, exploratory analysis, statistical testing, and interactive visualization** to generate actionable insights for game developers and publishers. The goal is not only to understand historical trends but also to provide **data-driven recommendations** for future game development and market targeting.
 
 ## 📌 Summary
 
