@@ -38,7 +38,7 @@ This analysis reveals that the video game industry is highly concentrated, with 
 ## 📊 Dashboard
 
 🔗 Tableau Dashboard: [here](https://public.tableau.com/app/profile/nabilah.putri.intaka1611/viz/VideoGameSalesDashboard_17376436610220/Dashboard?publish=yes)
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
