@@ -38,7 +38,13 @@ This analysis reveals that the video game industry is highly concentrated, with 
 ## 📊 Dashboard
 
 🔗 Tableau Dashboard: [here](https://public.tableau.com/app/profile/nabilah.putri.intaka1611/viz/VideoGameSalesDashboard_17376436610220/Dashboard?publish=yes)
-![Dashboard Preview](dashboard.png)
+
+<p align="center">
+  <img src="dashboard.png" width="800"/>
+</p>
+
+This dashboard provides an interactive overview of global video game sales from 1980 to 2020, highlighting key trends across platforms, genres, and regions.
+Users can explore top-performing games, leading platforms, and sales distribution to understand market dynamics and identify patterns in the gaming industry.
 
 ---
 
