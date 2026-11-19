@@ -28,10 +28,10 @@ This analysis reveals that the video game industry is highly concentrated, with 
 
 ## 🎯 Key Insights
 
-* 🎮 Action is the best-selling genre globally
-* 🏆 Nintendo dominates the market significantly
-* 🌍 Each region has different platform preferences
-* 📊 Platform choice significantly impacts sales (statistically proven)
+01 Action is the best-performing genre globally
+02 Nintendo dominates the publisher landscape
+03 Regional preferences differ significantly
+04 Platform choice has a strong impact on sales performance
 
 ---
 
