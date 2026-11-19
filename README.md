@@ -5,30 +5,29 @@
 
 ## Overview
 
-This portfolio project analyzes global video game sales data to uncover patterns across **genre, platform, publisher, and region**. It combines data cleaning, exploratory data analysis, statistical testing, and interactive visualization to generate actionable insights for game developers and publishers.
-
-The goal is to understand historical market trends and provide data-driven recommendations for game development, platform selection, and regional market targeting.
+This project analyzes global video game sales data to uncover patterns across genre, platform, publisher, and region. The goal is to generate actionable insights for better decision making.
 
 ## Executive Summary
 
-The video game industry is highly concentrated, with a small number of publishers dominating global sales. Market performance is influenced by **genre preferences, platform selection, and regional differences**.
+The video game industry is highly concentrated, with a few publishers dominating global sales. Success is driven by genre, platform, and regional trends; specifically, Action games lead global demand, while platform preferences vary by location.
 
-The analysis identifies **Action as the leading genre globally** and **Nintendo as a dominant publisher**. Regional platform preferences also vary significantly, indicating that a one-size-fits-all strategy may not be effective.
+To maximize commercial impact, developers must abandon "one-size-fits-all" approaches in favor of data-driven, market-specific strategies.
 
-These findings highlight the importance of aligning **genre, platform, and regional market strategies** to support more informed business decisions.
-
+---
 
 ## Business Objectives
 
 - Identify the best-performing video game genres, platforms, and publishers.
-- Compare video game sales performance across different geographic regions.
 - Analyze historical trends in game releases and sales.
-- Explore how genre preferences and platform selection relate to market performance.
-- Translate analytical findings into business recommendations.
+- Compare regional market preferences and platform performance.
+- Investigate differences in sales performance across platforms.
+- Provide data-driven recommendations for game development and market targeting.
+
+---
 
 ## Dataset
 
-The dataset contains historical video game sales records, including game titles, platforms, release years, genres, publishers, and regional sales figures.
+The project uses a historical video game sales dataset containing game titles, release years, platforms, genres, publishers, and regional sales figures.
 
 | Attribute | Description |
 | --- | --- |
@@ -39,71 +38,124 @@ The dataset contains historical video game sales records, including game titles,
 | Main dimensions | Genre, Platform, Publisher, Year |
 | Sales measurement | Millions of units |
 
-## Methodology
+**Dataset Source:** [Kaggle – Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
-### 1. Data Preparation
+---
 
-Imported the video game sales dataset into Python and reviewed its structure, data types, and missing values.
+## Data Processing & Methodology
 
-### 2. Data Cleaning and Validation
+The project follows a structured analytical workflow, from data preparation to statistical analysis and visualization.
 
-- Handled missing values in the Year and Publisher columns.
-- Removed incomplete records to improve data quality.
-- Converted data types for accurate analysis.
-- Validated dataset consistency and confirmed that no duplicate records were found.
+### 1. Data Cleaning
 
-### 3. Exploratory Data Analysis
+- Identified missing values in the Year and Publisher columns.
+- Removed incomplete records to maintain consistency.
+- Converted data types to support accurate analysis.
+- Checked for duplicate records and validated dataset integrity.
 
-- Analyzed sales distribution across genres, platforms, and regions.
-- Identified top-performing publishers and game categories.
-- Explored historical trends in game releases.
-- Compared regional sales patterns.
-- Used statistical testing to support the analysis.
+### 2. Exploratory Data Analysis
 
-### 4. Dashboard Reporting
+- Examined global sales distribution across genres, platforms, publishers, and regions.
+- Analyzed historical trends in game releases and sales.
+- Compared regional market preferences and platform performance.
 
-Developed an interactive Tableau dashboard to visualize global video game sales performance across genres, platforms, publishers, and regions.
+### 3. Statistical Analysis
 
-## Key Findings
+- Applied statistical testing to investigate differences in sales performance across platforms.
+- Used SciPy to support quantitative analysis.
 
-- **Action** is the best-performing genre globally.
-- **Nintendo** dominates the publisher landscape.
-- Regional preferences differ significantly across geographic markets.
-- Platform selection has a strong influence on sales performance.
+### 4. Data Visualization
 
-These findings suggest that a uniform global strategy may be less effective than market-specific approaches to game development and distribution.
+- Created exploratory visualizations using Matplotlib and Seaborn.
+- Developed an interactive Tableau dashboard to communicate analytical findings.
+
+---
+
+## Key Insights
+
+### 1. Genre Performance
+
+**Action is the best-performing genre globally.**
+
+Action leads global sales, followed by Sports and Shooter, indicating strong historical demand for fast-paced games.
+
+### 2. Publisher Performance
+
+**Nintendo dominates the publisher landscape.**
+
+The analysis highlights the concentration of global video game sales among leading publishers.
+
+### 3. Regional Market Preferences
+
+**Regional preferences differ significantly.**
+
+- North America: Xbox 360 leads, closely followed by PlayStation 2.
+- Europe: Platform performance is relatively balanced, with a slight PlayStation advantage.
+- Japan: Nintendo platforms are favored, while Xbox has a weaker presence.
+
+These differences highlight the importance of market-specific platform strategies.
+
+### 4. Platform Performance
+
+**Platform choice has a strong impact on sales performance.**
+
+Sales performance varies across platforms and regions, indicating that platform selection should consider regional market characteristics.
+
+---
 
 ## Dashboard
 
-**Tableau Dashboard:** [View Interactive Dashboard](https://public.tableau.com/app/profile/nabilah.putri.intaka1611/viz/VideoGameSalesDashboard_17376436610220/Dashboard?publish=yes)
+**Live Tableau Dashboard:** [View Interactive Dashboard](https://public.tableau.com/app/profile/nabilah.putri.intaka1611/viz/VideoGameSalesDashboard_17376436610220/Dashboard?publish=yes)
 
 <p align="center">
   <img src="dashboard.png" width="800"/>
 </p>
 
-The interactive dashboard provides an overview of global video game sales from 1980 to 2020, highlighting key trends across platforms, genres, and regions.
+The interactive Tableau dashboard provides an overview of global video game sales from 1980 to 2020, highlighting key trends across platforms, genres, and regions.
 
-Users can explore top-performing games, leading platforms, and regional sales distribution to understand historical market dynamics.
+### Dashboard KPIs
+
+| Metric | Value |
+| --- | --- |
+| Total Global Sales | 8.92 million units |
+| Total Games | 16,598 |
+| Top Platform | PlayStation 2 |
+| Top Genre | Action |
+| Peak Year | 2008 |
+
+### Dashboard Visualizations
+
+- Total Games by Year
+- Top Platforms by Global Sales
+- Sales by Genre
+- Sales by Region
+- Top Games by Global Sales
+
+Users can explore sales performance through interactive filters for year, genre, and platform.
+
+---
 
 ## Business Recommendations
 
 ### Genre Strategy
 
-Prioritize further market research into high-performing genres such as Action, Sports, and Shooter, while considering competition and audience demand.
+Prioritize further market research into high-performing genres such as Action, Sports, and Shooter, while considering differences in competition and audience demand.
 
 ### Regional Platform Strategy
 
-Adapt platform selection to regional market characteristics instead of applying a uniform global distribution strategy.
+Adapt platform selection to regional market characteristics rather than applying a uniform global distribution strategy.
 
 ### Market Segmentation
 
-Use regional sales patterns to identify market opportunities and guide product positioning.
+Use regional sales patterns to identify potential market opportunities and guide product positioning.
 
 ### Data-Driven Decision Making
 
-Combine historical sales analysis with recent market data, consumer preferences, and development costs before making investment decisions.
+Combine historical sales analysis with more recent market data, consumer preferences, and development costs before making investment decisions.
 
-## Tools and Technologies
+---
+
+## Tools & Technologies
 
 | Tool | Purpose |
 | --- | --- |
@@ -114,27 +166,35 @@ Combine historical sales analysis with recent market data, consumer preferences,
 | Tableau | Interactive dashboard development |
 | Jupyter Notebook | Analysis and documentation |
 
+---
+
 ## Project Structure
 
 - Data cleaning and exploratory analysis → Jupyter Notebook
-- Statistical testing → Python and SciPy
+- Statistical analysis → Python and SciPy
 - Data visualization → Matplotlib, Seaborn, and Tableau
 - Business insights → Findings and recommendations
 
+---
+
 ## How to Use
 
-1. Access the dataset through the Kaggle source linked below.
-2. Open the project's Jupyter Notebook to review data cleaning and exploratory analysis.
-3. Review the statistical analysis and visualizations.
-4. Explore the interactive Tableau dashboard using the link above.
-5. Read the key findings and business recommendations.
+1. Download or clone this repository.
+2. Open the Jupyter Notebook to review the data cleaning and exploratory analysis.
+3. Explore the statistical analysis and visualizations.
+4. Access the interactive Tableau dashboard using the link above.
+5. Review the key insights and business recommendations.
+
+---
 
 ## Limitations
 
-- The dataset includes only games with sales above 100,000 copies, potentially excluding smaller and independent games.
-- Historical data may not reflect recent developments in digital distribution and modern gaming platforms.
-- The dataset does not include player behavior, marketing expenditure, or demographic information.
+- The dataset only includes games with sales above 100,000 copies, which may exclude smaller or independent games.
+- Historical data may not reflect recent trends in digital distribution and modern gaming platforms.
+- The dataset does not include user behavior, marketing expenditure, or player demographics.
 - The analysis focuses on historical data rather than predictive modeling.
+
+---
 
 ## Future Improvements
 
@@ -142,10 +202,6 @@ Combine historical sales analysis with recent market data, consumer preferences,
 - Perform deeper analysis of genre-platform combinations.
 - Integrate additional datasets such as user reviews, ratings, and playtime.
 - Analyze trends in modern platforms, including mobile gaming and digital distribution.
-
-## Dataset Source
-
-[Kaggle – Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 ---
 
