@@ -9,6 +9,15 @@ This portfolio project analyzes global video game sales data to uncover patterns
 
 The goal is to understand historical market trends and provide data-driven recommendations for game development, platform selection, and regional market targeting.
 
+## Executive Summary
+
+The video game industry is highly concentrated, with a small number of publishers dominating global sales. Market performance is influenced by **genre preferences, platform selection, and regional differences**.
+
+The analysis identifies **Action as the leading genre globally** and **Nintendo as a dominant publisher**. Regional platform preferences also vary significantly, indicating that a one-size-fits-all strategy may not be effective.
+
+These findings highlight the importance of aligning **genre, platform, and regional market strategies** to support more informed business decisions.
+
+
 ## Business Objectives
 
 - Identify the best-performing video game genres, platforms, and publishers.
