@@ -65,13 +65,19 @@ Users can explore top-performing games, leading platforms, and sales distributio
 
 ---
 
-## 🚀 Business Impact
+## 🚀 Business Recommendations
 
-This analysis helps:
+**Genre Strategy**
+Prioritize further market research into high-performing genres such as Action, Sports, and Shooter, while considering differences in competition and audience demand.
 
-* Identify high-performing game genres
-* Choose optimal platforms per region
-* Improve market targeting strategies
+**Regional Platform Strategy**
+Adapt platform selection to regional market characteristics rather than applying a uniform global distribution strategy.
+
+**Market Segmentation**
+Use regional sales patterns to identify potential market opportunities and guide product positioning.
+
+**Data-Driven Decision Making**
+Combine historical sales analysis with more recent market data, consumer preferences, and development costs before making investment decisions.
 
 ---
 
